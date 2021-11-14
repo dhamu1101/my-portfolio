@@ -5,7 +5,7 @@ html{
 .prof-box{
        width: 450px;
        height: 450px;
-       background-color: transparent;
+       background-color:black;
        padding: 40px;
        color: white;
        margin: 0 auto;
@@ -17,7 +17,7 @@ html{
        border-radius: 50%;
        hight: 200px;
        width: 200px;
-       border-style: solid;
+       
        border-color: white;
        border-width: 4px;
        border-radius: 50%;
